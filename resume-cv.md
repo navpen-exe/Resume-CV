@@ -1,6 +1,6 @@
 ## **Navya Pendurkar** *(she/her)*
 ![Carina Nebula photo from the Hubble Space Telescope](/NASA-Image.jpg) 
-<!---> Above should eventually be replaced with a picture of me, and a link to something I've done <--->
+<!--- Above should eventually be replaced with a picture of me, and a link to something I've done --->
 
 ### Summary
 I am a young professional looking to begin a career in Library Science. I have benefitted tremendously from having access to libraries and passionate librarians, and I would love to be able to provide that access for others in the future. 
